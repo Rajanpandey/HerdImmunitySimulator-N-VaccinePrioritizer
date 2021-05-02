@@ -17,6 +17,7 @@ EFFICACY = {
 	'Sinopharm/Wuhan' => [62, 79.34],
 	'Sinovac' => [50.38, 50.38],
 	'Johnson&Johnson' => [65, 65]
+	'CanSino' => [65.7, 81],
 }
 
 VACCINE_SHOT_GAP = {

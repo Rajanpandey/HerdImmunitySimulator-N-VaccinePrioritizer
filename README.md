@@ -42,3 +42,4 @@ Our World in Data (OWID) is one of the most trusted sources of data. It compiles
 7. EpiVacCorona:
 8. Sinopharm/Wuhan:
 9. Sinopharm/Beijing:
+10. CanSino:
