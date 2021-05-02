@@ -3,13 +3,21 @@
 Real time dynamic herd immunity predictor and vaccine prioritizer for 136 countries.
 
 # How does it work
-Estimates and Formula are used on all of the pandemic data available in the world!
+Estimates and Formulae are used on all of the pandemic data available in the world!
 The accuracy of the predictions can be off as a lot of estimates are involved.
+![Estimates and Formulae](https://github.com/Rajanpandey/HerdImmunitySimulator-N-VaccinePrioritizer/blob/master/img/estimates-and-formulae.PNG?raw=true)
+
 
 # What is the output
 1. An API that gives global or country level data.
+![API for 136 countries](https://github.com/Rajanpandey/HerdImmunitySimulator-N-VaccinePrioritizer/blob/master/img/api.PNG?raw=true)
+
 2. A `data.csv` file that is ready to be ingested by any BI tool for data visualization.
+![Power BI](https://github.com/Rajanpandey/HerdImmunitySimulator-N-VaccinePrioritizer/blob/master/img/power-bi.PNG?raw=true)
+
 3. Data can also be printed on the CLI itself
+![Data printed in the CLI](https://github.com/Rajanpandey/HerdImmunitySimulator-N-VaccinePrioritizer/blob/master/img/printed-data.PNG?raw=true)
+
 
 # Datasets used
 Our World in Data (OWID) is one of the most trusted sources of data. It compiles data from WHO, CDC, and government of respective countries to come up with the most accurate datasets.
