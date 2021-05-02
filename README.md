@@ -1,10 +1,6 @@
 # Vaxilyze
 
-Real time dynamic herd immunity predictor and vaccine prioritizer.
-Built for Aspire Hackathon 2021.
-
-# Team
-Rajan Pandey, Chinmay Kodaganur, Sai Charan Salla, Jasmin Cox, Zach Xu
+Real time dynamic herd immunity predictor and vaccine prioritizer for 136 countries.
 
 # Datasets used
 Our World in Data (OWID) is one of the most trusted sources of data. It compiles data from WHO, CDC, and government of respective countries to come up with the most accurate datasets.
